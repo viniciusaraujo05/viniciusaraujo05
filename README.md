@@ -1,0 +1,1 @@
+>Vinicius, 22 anos - Cursando Analise e desenvolvimento de sistema (ultimo semestre). >Tenho como objetivo participar de grandes projetos que tenham como objetivo sanar dores da sociedade. >Tenho facilidade em aprender, e uma mente criativa. Estou sempre pronto pra aprener > Desenvolvedor Full Stack | PHP | JavaScript | Git/GitHub | API''s REST | Node.js | MySQL | HTML | CSS
