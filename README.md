@@ -1,4 +1,4 @@
-### Oiii meu nome é Vinicius Araujo
+### Oi meu nome é Vinicius Araujo
 
 <div align="center">
   <a href="https://github.com/viniciusaraujo05">
