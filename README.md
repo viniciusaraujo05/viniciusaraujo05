@@ -18,7 +18,6 @@
   <img align="center" alt="vinicius-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="vinicius-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="vinicius-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg">
-    <img align="center" alt="vinicius-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 </div>
   
   ##
